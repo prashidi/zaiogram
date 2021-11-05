@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-zaiogram-dev-173339-authRole",
+      "UnauthRoleArn": "arn:aws:iam::568215411748:role/amplify-zaiogram-dev-173339-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::568215411748:role/amplify-zaiogram-dev-173339-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-zaiogram-dev-173339-deployment",
+      "UnauthRoleName": "amplify-zaiogram-dev-173339-unauthRole",
+      "StackName": "amplify-zaiogram-dev-173339",
+      "StackId": "arn:aws:cloudformation:us-east-1:568215411748:stack/amplify-zaiogram-dev-173339/c4183f10-3e4d-11ec-b3d0-0afd63cbd473",
+      "AmplifyAppId": "d23eji1f50k46g"
+    },
+    "categories": {
+      "auth": {
+        "zaiogram13fb278f": {}
+      }
+    }
+  }
+}
